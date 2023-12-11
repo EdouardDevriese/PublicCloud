@@ -1,1 +1,1 @@
-# Public Sharing Folder
+*Storing public documents*
